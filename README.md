@@ -49,31 +49,6 @@ Content-Based Filtering ──┘
                  Book Recommendations
 ```
 
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/book-recommender-system.git
-cd book-recommender-system
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the notebook
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open the notebook in the `notebooks/` directory and run the cells sequentially.
-
 ## Project Objective
 
 The goal of this project is to explore how **multiple recommendation techniques can be combined to improve the relevance and quality of book recommendations**, while gaining practical experience in data preprocessing, exploratory data analysis, machine learning, and recommender system development.
